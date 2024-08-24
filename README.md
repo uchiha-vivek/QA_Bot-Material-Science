@@ -1,8 +1,6 @@
  # My Project
 
-## Screenshots
-
-Here are some screenshots of the project:
+We have to use our gemimi api for reponse .
 
  
 
